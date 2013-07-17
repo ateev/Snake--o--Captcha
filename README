@@ -1,7 +1,7 @@
                              SNAK'o'CAPTCHA
                             =================
   
-
+Developed using C++ and SFML library, this program provides user a fun yet a complete secure way of authenticating his “HUMAN” status.
 
 Catch the red ball in order to pass the human verification test. 
 

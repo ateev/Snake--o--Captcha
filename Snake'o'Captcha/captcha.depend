@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1323413355 source:c:\users\zedai\desktop\atv\captcha\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/System.hpp>
+
